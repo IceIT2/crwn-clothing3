@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Târgu Jiu",
+			"country": {
+				"code": "RO",
+				"name": "Romania"
+			},
+			"subdivision": {
+				"code": "GJ",
+				"name": "Gorj County"
+			},
+			"timezone": "Europe/Bucharest",
+			"latitude": 45.0489,
+			"longitude": 23.2904
+		},
+		"timestamp": 1713866777950
+	}
+}
